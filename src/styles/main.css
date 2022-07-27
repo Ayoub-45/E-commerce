@@ -1,0 +1,12 @@
+*{
+   background-color: white;
+   box-sizing: content-box;
+   margin: 0;
+}
+.jh-cart{
+   padding:32px;
+   color:black;
+   background-color: #31b572;
+   font-size: 60px;
+   text-shadow: 3px;
+}
