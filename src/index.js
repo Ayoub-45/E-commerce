@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import HomePage from './components/E-commerce/HomePage.Component'
+import HomePage from './Apps/E-commerce/Components/pages/homepages/HomePage.Component'
 import reportWebVitals from './reportWebVitals';
+import './App.css'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
